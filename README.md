@@ -76,10 +76,12 @@ The script will ask for the path to the folder you want to extract.
 My latest update to the WOS tools is included here.
 
  Temporary .BAT Launcher (Optional)
-
-You can create a temporary .bat launcher to simplify running the extractor
+ a temporary .bat launcher to simplify running the extractor
 
 we are 3 in this project i will provide link to thier tools and special thanks to them  haruse for addon blender and texture vieiwer (https://github.com/Spider-Man-Web-of-Shadows-Tools
 GitHub)
 
 and  (https://github.com/kirbystealer)
+
+![image](https://github.com/Hexworksofficial/web-of-shadows-tools-wos-tools-/blob/1a2708b3ffaff74ca527734a727ac1783b271c17/xr0rv7h2qcm51.jpg)
+enjoy wos modders have fun in extracting ^^
