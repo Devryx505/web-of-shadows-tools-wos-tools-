@@ -2,7 +2,7 @@
 Spider-Man: Web of Shadows — PCPACK Tools Setup & Update Guide
 https://discord.gg/vBN4wz8J join the community for any question 
 
-For Kriby, Haruse, and me — enjoy ^^
+For Kriby, Haruse, and me and frankie — enjoy ^^
 
 WOS Toolkit is the ultimate all in one modding tool for Spider‑Man: Web of Shadows (PC).
 It allows you to extract, edit, and repack game assets with a user‑friendly graphical interface  no command line required.
