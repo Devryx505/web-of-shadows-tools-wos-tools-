@@ -4,83 +4,85 @@ https://discord.gg/vBN4wz8J join the community for any question
 
 For Kriby, Haruse, and me — enjoy ^^
 
-This guide will help you set up the PCPACK Extractor with the latest updates and run it safely on your system using Python 3.10.6 and LZO.
+WOS Toolkit is the ultimate all in one modding tool for Spider‑Man: Web of Shadows (PC).
+It allows you to extract, edit, and repack game assets with a user‑friendly graphical interface  no command line required.
+From swapping animations and editing material properties to viewing 3D models and textures, this toolkit gives you everything you need to create your own mods or tweak the game to your liking   also support drag % drop
+Download the latest release from the releases page 
+Extract the ZIP to any folder on your computer (e.g. 
+C:\WOS_Toolkit
+).
+Run 
+WOSToolkit.exe
+ (Windows) 
+No additional installation – the tool is portable and ready to use.
+ Pack Extractor
+Extract 
+.pack
+, 
+.pcapk
+ and 
+Xbox 360 fully and for now ps3 pcpack only
+ archives.
+Browse extracted files in the built‑in File Browser.
+Extract individual files or entire archives.
+ Material Editor
+Open and edit 
+.mat
+ material files.
+Modify colour / float parameters (Vec4) with a single slider.
+Change blend modes (integer values).
+Hex preview of changes – live updates.
+Automatic backup before saving.
+ Texture Viewer & Workshop
+View textures inside 
+.pcapk
+ archives (DXT1/3/5/ATI2).
+Full‑screen mode – pan, zoom, and toggle fullscreen.
+Extract 
+.wrap.tex
+ to 
+.dds
+for editing use any app
+Repack edited 
+.dds
+ back into 
+.wrap.tex
+ using a template.
+also for XBOX 360
+Preserves original texture as backup.
+Animation Swap
+Replace in‑game animations (e.g. idle, swing, attacks).
+Built‑in animation reference list with names and descriptions.
+Double‑click any reference to copy the internal name.
+One‑click swap with automatic backup.
+  ENT Editor (if available)
+Edit entity files unkown for now
+3D Model Viewer
+Open 
+.pcpack
+ models.
+Real‑time OpenGL viewer with:
+Free camera (WASD + mouse)
+Wireframe, bounding boxes, normals
+Vertex colours / transparency toggles
+Material editor (change colour / apply texture)
+Screenshots and OBJ export
+ Hex Viewer
+Built‑in hex editor with search, goto, and live editing.
+Synchronised hex & ASCII views.
+Save changes with backup.
+ Animation Reference List
+Over 30 known Spider‑Man animations (normal suit & black suit).
+Includes internal names and descriptions for easy identification.
+should work on Windows (7, 8, 10, 11)  & may work on Linux/macOS
+A huge thank you to my WOS TOOLS TEAM  :
+Haruse – Developer, reverse engineer, and CEO of WOS Addon.
+Kirbystealer – Cool guy, developer, reverse engineer, and CEO of ExWOS.
+UndeadFrankie – Developer, reverse engineer, and CEO of DR2 Tool.
+Without this beautiful team everything could be hard <3
+Special thanks to the Spider‑Man: Web of Shadows modding community for their continued support and inspiration.
 
-Team note: We are three working on this project — each of us has our own style: Kriby, Haruse, and me. I also added my latest update to WOS tools. Everyone can use their own workflow while staying on the same setup.
-
- Download Prerequisites
-
-Python 3.10.6 Installer (provided)
-
-python_lzo-1.15-cp310-cp310-win_amd64.whl (provided)
-
-PCPACK Extractor folder (provided, includes my update)
-
- Install Python 3.10.6
-
-Run the installer.
-
-Make sure to check “Add Python to PATH”.
-
-Verify installation by opening CMD and running:
-
-py -0
-
-
-Python 3.10 should appear in the list.
-
- Install LZO Module
-
-Open CMD.
-
-Go to your Downloads folder (or wherever you saved the .whl):
-
-cd %USERPROFILE%\Downloads
-
-
-Verify the .whl file exists:
-
-dir python_lzo-1.15-cp310-cp310-win_amd64.whl
-
-
-Install LZO for Python 3.10:
-
-py -3.10 -m pip install python_lzo-1.15-cp310-cp310-win_amd64.whl
-
- Test LZO Installation
-
-Open Python 3.10 shell:
-
-py -3.10
-
-
-Run:
-
-import lzo
-print("LZO OK on Python 3.10")
-
-
-If it prints LZO OK on Python 3.10, everything is good 
-
- Run PCPACK Extractor
-
-Extract the PCPACK Extractor folder into Downloads or a location of your choice.
-
-Open CMD in that folder.
-
-Run:
-
-py -3.10 PCPACK_Extractor.py
-
-
-The script will ask for the path to the folder you want to extract.
-
-My latest update to the WOS tools is included here.
-
- Temporary .BAT Launcher (Optional)
- a temporary .bat launcher to simplify running the extractor
-
-we are 3 in this project i will provide link to thier tools and special thanks to them  haruse for addon blender and texture vieiwer (https://github.com/Spider-Man-Web-of-Shadows-Tools
+we are 4 in this project i will provide link to thier tools and special thanks to them  haruse for addon blender and texture vieiwer (https://github.com/Spider-Man-Web-of-Shadows-Tools
 GitHub)
 
 and  (https://github.com/kirbystealer)
