@@ -1,0 +1,9 @@
+{
+  "version": "4.0.0",
+  "changelog": [
+    "Initial v4 release",
+    "Added auto-updater, mod profiles, conflict detection",
+    "Added batch mode, backup system, playtime tracker"
+  ],
+  "download_url": "https://github.com/Devryx505/web-of-shadows-tools-wos-tools-/releases/latest"
+}
