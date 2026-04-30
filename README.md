@@ -1,6 +1,6 @@
 ![image](https://github.com/Hexworksofficial/web-of-shadows-tools-wos-tools-/blob/203d9563368ed9330e7e9d6ab2f6c009eb432052/Web_of_shadows_boxart.jpg)
 Spider-Man: Web of Shadows — PCPACK Tools Setup & Update Guide
-https://discord.gg/vBN4wz8J join the community for any question 
+
 
 For Kriby, Haruse, and me and frankie — enjoy ^^
 
