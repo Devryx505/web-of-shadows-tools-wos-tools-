@@ -2,7 +2,7 @@
 Spider-Man: Web of Shadows — PCPACK Tools Setup & Update Guide
 
 
-For Kriby, Haruse, and me and frankie — enjoy ^^
+For Kriby,me and frankie — enjoy ^^
 
 WOS Toolkit is the ultimate all in one modding tool for Spider‑Man: Web of Shadows (PC).
 It allows you to extract, edit, and repack game assets with a user‑friendly graphical interface  no command line required.
@@ -82,8 +82,7 @@ UndeadFrankie – Developer, reverse engineer, and CEO of DR2 Tool.
 Without this beautiful team everything could be hard <3
 Special thanks to the Spider‑Man: Web of Shadows modding community for their continued support and inspiration.
 
-we are 4 in this project i will provide link to thier tools and special thanks to them  haruse for addon blender and texture vieiwer (https://github.com/Spider-Man-Web-of-Shadows-Tools
-GitHub)
+we are 3 in this project i will provide link to thier tools and special thanks to them 
 
 and  (https://github.com/kirbystealer) and https://github.com/UndeadFrankie    best team ever to work with
 
