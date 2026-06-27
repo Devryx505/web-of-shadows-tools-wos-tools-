@@ -1,4 +1,4 @@
-# Spider-Man: Web of Shadows PCPACK Tools Setup & Update Guide
+# Spider-Man: Web of Shadows — PCPACK Tools Setup & Update Guide
 
 <p align="center">
   <img src="https://github.com/Hexworksofficial/web-of-shadows-tools-wos-tools-/blob/203d9563368ed9330e7e9d6ab2f6c009eb432052/Web_of_shadows_boxart.jpg" alt="Spider-Man Web of Shadows Boxart" width="400"/>
@@ -16,15 +16,25 @@ WOS Toolkit is the ultimate all-in-one modding suite for Spider‑Man: Web of Sh
 ## Setup & Installation
 
 * Supported OS: Windows 7, 8, 10, 11 (Experimental support via Wine/Proton for Linux/macOS)
-* Portability: The toolkit is 100% portable. No deep system installer required!
+* Portability: The toolkit components are 100% portable. No deep system installer required!
 
 1. Download the latest compilation from the Releases page.
 2. Extract the archive into a dedicated directory (e.g., C:\WOS_Toolkit\).
-3. Run WOSToolkit.exe to boot the suite.
+3. Open your toolkit folder to launch your desired application:
+   * Run **WOSToolkit.exe** to open the main asset editor suite.
+   * Run **WOSModManager.exe** to launch the separated mod manager executable.
 
 ---
 
 ## Feature Breakdown
+
+<details>
+<summary>Web of Shadows Mod Manager (Separated EXE)</summary>
+
+* Runs as a completely independent executable file within the toolkit directory.
+* Manages mod load orders and actively checks for data conflicts between active packages.
+* Provides a centralized graphical manager to install, configure, toggle, or remove game modifications cleanly.
+</details>
 
 <details>
 <summary>Pack Extractor & Ingestion Suite (PC, Xbox 360, PS3)</summary>
@@ -92,8 +102,8 @@ WOS Toolkit is the ultimate all-in-one modding suite for Spider‑Man: Web of Sh
 This project is a collaborative effort by a team of dedicated developers and reverse engineers. Check out the other projects in our ecosystem:
 
 * Devryx (Owner/Main Suite Developer) — [GitHub Profile](https://github.com/Devryx)
-* Kirbystealer — Reverse Engineer, Developer, and CEO of ExWOS. 🔗 [Explore Kirbystealer's Tools](https://github.com/kirbystealer)
-* UndeadFrankie — Reverse Engineer, Developer, and CEO of DR2 Tool. 🔗 [Explore UndeadFrankie's Tools](https://github.com/UndeadFrankie)
+* Kirbystealer — Reverse Engineer, Developer, and CEO of ExWOS. — [Explore Kirbystealer's Tools](https://github.com/kirbystealer)
+* UndeadFrankie — Reverse Engineer, Developer, and CEO of DR2 Tool. — [Explore UndeadFrankie's Tools](https://github.com/UndeadFrankie)
 
 Without this beautiful team, everything would be much harder! <3
 
@@ -101,5 +111,9 @@ Without this beautiful team, everything would be much harder! <3
 
 ### Special Thanks
 A massive thank you goes out to the entire Spider‑Man: Web of Shadows modding community for providing constant research support, telemetry details, and the creative inspiration needed to keep developing these open-source tools.
-![image](https://github.com/Hexworksofficial/web-of-shadows-tools-wos-tools-/blob/1a2708b3ffaff74ca527734a727ac1783b271c17/xr0rv7h2qcm51.jpg)
-enjoy wos modders have fun in extracting ^^
+
+<p align="center">
+  <img src="https://github.com/Hexworksofficial/web-of-shadows-tools-wos-tools-/blob/1a2708b3ffaff74ca527734a727ac1783b271c17/xr0rv7h2qcm51.jpg" alt="WOS Modding Scene" width="600"/>
+</p>
+
+Enjoy WOS modders, have fun extracting!
