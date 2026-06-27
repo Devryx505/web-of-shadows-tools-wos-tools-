@@ -92,7 +92,6 @@ WOS Toolkit is the ultimate all-in-one modding suite for Spider‑Man: Web of Sh
 This project is a collaborative effort by a team of dedicated developers and reverse engineers. Check out the other projects in our ecosystem:
 
 * Devryx (Owner/Main Suite Developer) — [GitHub Profile](https://github.com/Devryx)
-* Haruse — Reverse Engineer, Systems Developer, and CEO of WOS Addon.
 * Kirbystealer — Reverse Engineer, Developer, and CEO of ExWOS. 🔗 [Explore Kirbystealer's Tools](https://github.com/kirbystealer)
 * UndeadFrankie — Reverse Engineer, Developer, and CEO of DR2 Tool. 🔗 [Explore UndeadFrankie's Tools](https://github.com/UndeadFrankie)
 
